@@ -4,7 +4,7 @@
 <div>
   <a href="https://github.com/lauraxsantos">
     <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=lauraxsantos&show_icons=true&theme=transparent"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraxsantos&theme=transparent"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraxsantos&theme=transparent&layout=compact"/>
 </div>
 <div style="display: inline_block"> <br>
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
